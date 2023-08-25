@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="20.0.2" class="java.beans.XMLDecoder">
+ <object class="BreakfastMenu">
+  <void property="food">
+   <array class="Food" length="2">
+    <void index="0">
+     <object class="Food">
+      <void property="calories">
+       <string>650</string>
+      </void>
+      <void property="description">
+       <string>Two of our famous Belgian Waffles with plenty of real maple syrup</string>
+      </void>
+      <void property="name">
+       <string>Belgian Waffles</string>
+      </void>
+      <void property="price">
+       <string>$5.95</string>
+      </void>
+     </object>
+    </void>
+    <void index="1">
+     <object class="Food">
+      <void property="calories">
+       <string>900</string>
+      </void>
+      <void property="description">
+       <string>Light Belgian waffles covered with strawberries and whipped cream</string>
+      </void>
+      <void property="name">
+       <string>Strawberry Belgian Waffles</string>
+      </void>
+      <void property="price">
+       <string>$7.95</string>
+      </void>
+     </object>
+    </void>
+   </array>
+  </void>
+ </object>
+</java>

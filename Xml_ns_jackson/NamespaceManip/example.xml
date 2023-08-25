@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<p:breakfast_menu xmlns:m="http://mamalakis.gr" xmlns:p="http://www.psounis.gr">
+    <m:food>
+        <m:name>Μπάμιες Κοκκινιστές</m:name>
+    </m:food>
+    <p:food>
+        <p:name>Αυγά Τηγανητά</p:name>
+    </p:food>
+</p:breakfast_menu>

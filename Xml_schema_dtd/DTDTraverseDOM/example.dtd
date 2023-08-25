@@ -1,0 +1,11 @@
+<!ELEMENT breakfast_menu (food+)>
+<!ELEMENT food (name, price, description, calories)>
+<!ATTLIST food c1 CDATA "default">
+<!ATTLIST food c2 CDATA #IMPLIED>
+<!ATTLIST food c3 CDATA #IMPLIED>
+<!ATTLIST food c4 CDATA #IMPLIED>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT description (#PCDATA)>
+<!ELEMENT calories (#PCDATA)>
+<!ENTITY euro "€">
