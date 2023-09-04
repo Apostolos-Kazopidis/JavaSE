@@ -1,0 +1,3 @@
+module utilsMod {
+    exports utilsPack;
+}

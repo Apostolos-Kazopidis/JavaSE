@@ -1,0 +1,3 @@
+module mainMod {
+    requires utilsMod;
+}

@@ -1,0 +1,3 @@
+jar cvf MyJar.jar Main.class Utils.class
+jar cvfe MyJar.jar Main *.class
+java jar Myjar.jar

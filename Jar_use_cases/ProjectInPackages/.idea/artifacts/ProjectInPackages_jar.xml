@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ProjectInPackages:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ProjectInPackages_jar</output-path>
+    <root id="archive" name="ProjectInPackages.jar">
+      <element id="module-output" name="ProjectInPackages" />
+    </root>
+  </artifact>
+</component>

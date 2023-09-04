@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"auxiliary","h":"class Main","d":"A helper function","u":"Main.html#auxiliary"},{"l":"Serialized Form","h":"","u":"serialized-form.html"}];updateSearchResults();

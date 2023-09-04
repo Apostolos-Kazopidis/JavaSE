@@ -1,0 +1,8 @@
+Αυγ 28, 2023 2:10:41 Μ.Μ. User <init>
+FINE: 1: User tom lakis initialized.
+Αυγ 28, 2023 2:10:52 Μ.Μ. User <init>
+FINE: 2: User tom initialized.
+Αυγ 28, 2023 2:10:53 Μ.Μ. User toString
+FINE: 5: User tom lakis accessed
+Αυγ 28, 2023 2:10:53 Μ.Μ. User toString
+FINE: 6: User tom accessed

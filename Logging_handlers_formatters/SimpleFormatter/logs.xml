@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-08-29T14:11:32</date>
+  <millis>1693307492654</millis>
+  <sequence>0</sequence>
+  <level>FINE</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>0: User Apostolos Kazopidis accessed</message>
+</record>
+<record>
+  <date>2023-08-29T14:11:32</date>
+  <millis>1693307492681</millis>
+  <sequence>1</sequence>
+  <level>FINE</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>1: User Nick The greek accessed</message>
+</record>
+</log>

@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: MyJar2.jar
+Created-By: 17.0.3 (Eclipse Adoptium)
+

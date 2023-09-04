@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FileOutOfJar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FileOutOfJar_jar</output-path>
+    <root id="archive" name="FileOutOfJar.jar">
+      <element id="module-output" name="FileOutOfJar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-08-29T11:32:00.225701900Z</date>
+  <millis>1693308720225</millis>
+  <nanos>701900</nanos>
+  <sequence>0</sequence>
+  <level>FINE</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>0: User Apostolos Kazopidis accessed</message>
+</record>
+<record>
+  <date>2023-08-29T11:32:00.250952700Z</date>
+  <millis>1693308720250</millis>
+  <nanos>952700</nanos>
+  <sequence>1</sequence>
+  <level>FINE</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>1: User wdeffrweg accessed</message>
+</record>
+<record>
+  <date>2023-08-29T11:32:00.251223400Z</date>
+  <millis>1693308720251</millis>
+  <nanos>223400</nanos>
+  <sequence>2</sequence>
+  <level>FINE</level>
+  <class>User</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>2: User dwfwdgf wregfrwg accessed</message>
+</record>
+</log>

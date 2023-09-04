@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2023-08-29T14:48:11.927434500Z</date>
+  <millis>1693320491927</millis>
+  <nanos>434500</nanos>
+  <sequence>0</sequence>
+  <logger>com.kazopidis.app.Data</logger>
+  <level>INFO</level>
+  <class>com.kazopidis.app.Data</class>
+  <method>toString</method>
+  <thread>1</thread>
+  <message>Data accessed</message>
+</record>
+<record>
+  <date>2023-08-29T14:48:11.970471400Z</date>
+  <millis>1693320491970</millis>
+  <nanos>471400</nanos>
+  <sequence>1</sequence>
+  <logger>com.kazopidis.utils.Utils</logger>
+  <level>INFO</level>
+  <class>com.kazopidis.utils.Utils</class>
+  <method>f</method>
+  <thread>1</thread>
+  <message>in Utils.f()</message>
+</record>
+</log>
